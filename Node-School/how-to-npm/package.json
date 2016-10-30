@@ -1,0 +1,14 @@
+{
+  "name": "@ian/project",
+  "version": "1.0.2",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "respository": "github.com",
+  "devDependencies": {}
+}
